@@ -1,0 +1,47 @@
+body {
+    color: whitesmoke;
+    font-size: 20px;
+    background-image: url('pablo-merchan-montes-772142-unsplash2.jpg');
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+body h1 {
+    font-size: 70px;
+}
+body p {
+    font-size: 30px;
+}
+body input {
+    font-size: 18px;
+}
+a:visited {
+    color:whitesmoke;
+}
+
+.button {
+    text-decoration: none;
+    background: whitesmoke;
+    transition: .2s;
+    width:60px;
+    height:40px;
+}
+.button:hover {
+    background:rgb(255, 208, 0);
+}
+
+.button_add {
+    text-decoration: none;
+    background: whitesmoke;
+    transition: .2s;
+    width:200px;
+    height:40px;
+}
+.button_add:hover {
+    background:rgb(255, 208, 0);
+}
+
+.input {
+    width:550px;
+    height:40px;
+}
