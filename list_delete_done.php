@@ -17,9 +17,9 @@ try {
 $code = $_POST['code'];
 
 //DB接続
-$dsn = 'mysql:host=mysql7029.xserver.jp;dbname=tomakoblog_list;charset=utf8';
-$user = 'tomakoblog_dbt';
-$password = 'password';
+$dsn = 'mysql:host= ;dbname= ;charset=utf8';
+$user = ' ';
+$password = ' ';
 $dbh = new PDO($dsn, $user, $password);
 $dbh -> setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
 
