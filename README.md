@@ -1,1 +1,3 @@
-# Restaurant_List
+レストランの店名・URL・メモをリストとして管理できるWebサイトです。
+XAMPPを使用して作成しました。
+使用言語:HTML/CSS/PHP
